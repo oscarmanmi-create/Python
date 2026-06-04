@@ -1,0 +1,79 @@
+{
+    "Lemur": {
+      "colores": [
+      "Verde Esmeralda Profundo",
+      "Negro Ónix Absoluto",
+      "Azul Océano Nocturno",
+      "Blanco Glaciar Premium",
+      "Rojo Carmesí Intenso",
+      "Gris Titanio Urbano",
+      "Gris Grafito Elegante",
+      "Gris Plata Lunar"
+      ],
+      "versiones": {
+      "Entry MP 5 velocidades (93CV)": {
+      "precio": 16000
+      },
+      "Entry MP Automático (93CV)": {
+      "precio": 16975
+      },
+      "Medium MP 5 Velocidades (93CV)":{
+      "precio": 17885
+      },
+      "Medium MP Automático (93CV)":{
+      "precio": 18860
+      },
+      "Exclusive MP 5 Velocidades (93CV)":{
+      "precio": 19970
+      },
+      "Exclusive MP Automático (93CV)":{
+      "precio": 20745
+      },
+      "MRL MP Automático (93CV)":{
+      "precio": 22630
+      }
+    }
+    },
+    "Endel":{
+      "colores":[
+      "Negro Eclipse Metálico",
+      "Blanco Perla Radiante",
+      "Rojo Carmesí Intenso",
+      "Azul Océano Nocturno",
+      "Blanco Glaciar Premium",
+      "Gris Plata Lunar",
+      "Verde Esmeralda Profundo",
+      "Gris Grafito Elegante",
+      "Negro Ónix Absoluto"
+      ],
+      "versiones": {
+      "Entry MP 5 velocidades (105CV)": {
+      "precio": 18000
+      },
+      "Entry MP Automático (105CV)": {
+      "precio": 18975
+      },
+      "Entry MP Hybrid (134CV)":{
+      "precio": 20860
+      },
+      "Medium MP 5 Velocidades (105CV)":{
+      "precio": 19885
+      },
+      "Medium MP Automático (105CV)":{
+      "precio": 21835
+      },
+      "Medium MP Automático (153CV)":{
+      "precio": 23720
+      },
+      "Medium MP Hybrid (134CV)":{
+      "precio": 22630
+      }
+    }
+      
+    }
+
+  }
+
+
+
+
